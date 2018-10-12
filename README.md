@@ -8,3 +8,5 @@ Provided CNN model will classify the particular animal (Dog or Cat) from the dat
 Dataset:
 I have used publicly available dataset, you can find the same from bellow link (uploaded on google drive).
 download the dataset and unzip it keep it in same directory structure.
+
+https://drive.google.com/open?id=1l0Mo1FyfGBTHfZekwHexlmu_I1eo0zv9
